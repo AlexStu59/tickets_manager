@@ -1,0 +1,10 @@
+# Exclure l'environnement virtuel
+venv/
+.env
+
+# Cache Python
+__pycache__/
+
+# Fichiers inutiles
+*.log
+*.sqlite3
